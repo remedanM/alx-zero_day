@@ -1,0 +1,2 @@
+git clone <remote-url>
+git pull origin <branch-name>
